@@ -1,9 +1,9 @@
 
 # Hello World!
-- 👋 Hi, I’m @inakicalvo
-- 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning how to use Python to work deeper with marketing data.
-- 📫 How to reach me: [Mastodon](https://mastodon.social/@inakicalvo)
+- 👋 Hi, I’m @inakicalvo and I work in Marketing Operations.
+- 👀 I’m interested in improving my Data Analytics skills, and learning some Data Science.
+- 🌱 I’m currently honing my Python skills to analyze and activate marketing data.
+- 📫 You can reach me on [Mastodon](https://mastodon.social/@inakicalvo) or [LinkedIn](https://www.linkedin.com/in/inakicalvo/).
 
 <!---
 inakicalvo/inakicalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
