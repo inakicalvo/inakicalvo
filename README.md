@@ -1,8 +1,8 @@
 
 # Hello World!
 - 👋 Hi, I’m @inakicalvo and I work in Marketing Operations.
-- 👀 I’m interested in improving my Data Analytics skills, and learning some Data Science.
-- 🌱 I’m currently honing my Python skills to analyze and activate marketing data.
+- 👀 I’m interested in improving my Data Analytics, Data Science, and Automation skills.
+- 🌱 I’m currently honing my Python skills to better analyze and activate marketing data.
 - 📫 You can reach me on [Mastodon](https://mastodon.social/@inakicalvo) or [LinkedIn](https://www.linkedin.com/in/inakicalvo/).
 
 <!---
