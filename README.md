@@ -1,6 +1,6 @@
 # **Working with Data and Code**
 
-👋 Hi, I’m **Iñaki Calvo**—a **Marketing Data Manager** at **Gartner**, where I turn customer data into actionable insights using **SQL**, **Python**, and **data visualization** tools. I thrive at the intersection of **marketing**, **data analytics**, and **automation**. I spend a big chunck of my time building data models, analyzing data, and automating workflows.
+👋 Hi, I’m **Iñaki Calvo**—a **Marketing Data Manager** at a **S&P 500** company, where I turn customer data into actionable insights using **SQL**, **Python**, and **data visualization** tools. I thrive at the intersection of **marketing**, **data analytics**, and **automation**. I spend a big chunck of my time building data models, analyzing data, and automating workflows.
 
 💡 With a background in **Philosophy**, I bring a **critical thinking** mindset to everything I do, whether it’s analyzing data or building digital solutions.
 
